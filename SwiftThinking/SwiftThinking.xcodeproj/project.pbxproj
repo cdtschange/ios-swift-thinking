@@ -16,6 +16,7 @@
 		6FEA46672B1D33AF006A0D5E /* SwiftThinkingUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FEA46662B1D33AF006A0D5E /* SwiftThinkingUITestsLaunchTests.swift */; };
 		6FEA46772B1D3913006A0D5E /* KeypathsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FEA46762B1D3913006A0D5E /* KeypathsBootcamp.swift */; };
 		6FEA467A2B1D4138006A0D5E /* PropertyWrapperBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FEA46792B1D4138006A0D5E /* PropertyWrapperBootcamp.swift */; };
+		6FEA467D2B1EDCCF006A0D5E /* PropertyWrapper2Bootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FEA467C2B1EDCCF006A0D5E /* PropertyWrapper2Bootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +49,7 @@
 		6FEA46662B1D33AF006A0D5E /* SwiftThinkingUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftThinkingUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		6FEA46762B1D3913006A0D5E /* KeypathsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeypathsBootcamp.swift; sourceTree = "<group>"; };
 		6FEA46792B1D4138006A0D5E /* PropertyWrapperBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PropertyWrapperBootcamp.swift; sourceTree = "<group>"; };
+		6FEA467C2B1EDCCF006A0D5E /* PropertyWrapper2Bootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PropertyWrapper2Bootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -135,8 +137,9 @@
 		6FEA467B2B1D4211006A0D5E /* Learning */ = {
 			isa = PBXGroup;
 			children = (
-				6FEA46792B1D4138006A0D5E /* PropertyWrapperBootcamp.swift */,
 				6FEA46762B1D3913006A0D5E /* KeypathsBootcamp.swift */,
+				6FEA46792B1D4138006A0D5E /* PropertyWrapperBootcamp.swift */,
+				6FEA467C2B1EDCCF006A0D5E /* PropertyWrapper2Bootcamp.swift */,
 			);
 			path = Learning;
 			sourceTree = "<group>";
@@ -271,6 +274,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6FEA467D2B1EDCCF006A0D5E /* PropertyWrapper2Bootcamp.swift in Sources */,
 				6FEA464C2B1D33AE006A0D5E /* ContentView.swift in Sources */,
 				6FEA46772B1D3913006A0D5E /* KeypathsBootcamp.swift in Sources */,
 				6FEA464A2B1D33AE006A0D5E /* SwiftThinkingApp.swift in Sources */,
