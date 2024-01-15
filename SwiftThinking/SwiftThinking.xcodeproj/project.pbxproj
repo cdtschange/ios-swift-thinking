@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6FE0F8322B54B7CF00FB2C75 /* NativePopoverBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FE0F8312B54B7CF00FB2C75 /* NativePopoverBootcamp.swift */; };
 		6FEA464A2B1D33AE006A0D5E /* SwiftThinkingApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FEA46492B1D33AE006A0D5E /* SwiftThinkingApp.swift */; };
 		6FEA464C2B1D33AE006A0D5E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FEA464B2B1D33AE006A0D5E /* ContentView.swift */; };
 		6FEA464E2B1D33AF006A0D5E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6FEA464D2B1D33AF006A0D5E /* Assets.xcassets */; };
@@ -37,6 +38,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		6FE0F8312B54B7CF00FB2C75 /* NativePopoverBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NativePopoverBootcamp.swift; sourceTree = "<group>"; };
 		6FEA46462B1D33AE006A0D5E /* SwiftThinking.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftThinking.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6FEA46492B1D33AE006A0D5E /* SwiftThinkingApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftThinkingApp.swift; sourceTree = "<group>"; };
 		6FEA464B2B1D33AE006A0D5E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -140,6 +142,7 @@
 				6FEA46762B1D3913006A0D5E /* KeypathsBootcamp.swift */,
 				6FEA46792B1D4138006A0D5E /* PropertyWrapperBootcamp.swift */,
 				6FEA467C2B1EDCCF006A0D5E /* PropertyWrapper2Bootcamp.swift */,
+				6FE0F8312B54B7CF00FB2C75 /* NativePopoverBootcamp.swift */,
 			);
 			path = Learning;
 			sourceTree = "<group>";
@@ -275,6 +278,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6FEA467D2B1EDCCF006A0D5E /* PropertyWrapper2Bootcamp.swift in Sources */,
+				6FE0F8322B54B7CF00FB2C75 /* NativePopoverBootcamp.swift in Sources */,
 				6FEA464C2B1D33AE006A0D5E /* ContentView.swift in Sources */,
 				6FEA46772B1D3913006A0D5E /* KeypathsBootcamp.swift in Sources */,
 				6FEA464A2B1D33AE006A0D5E /* SwiftThinkingApp.swift in Sources */,
